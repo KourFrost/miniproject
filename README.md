@@ -1,2 +1,4 @@
 # miniproject
- Embedded Sys Design project
+
+Embedded Sys Design project
+Jacob Herrmann
